@@ -1,0 +1,391 @@
+Location,TimeFrame,DataFormat,Data,Fips
+New York City,2017,Number,263825,3651000
+New York City,2017,Percent,0.484,3651000
+New York City,2018,Percent,0.465,3651000
+New York City,2018,Number,248470,3651000
+New York City,2019,Number,232399,3651000
+New York City,2019,Percent,0.44495,3651000
+Manhattan,2019,Number,23362,36061
+Manhattan,2018,Number,27357,36061
+Manhattan,2017,Percent,0.365,36061
+Manhattan,2018,Percent,0.349,36061
+Manhattan,2017,Number,29745,36061
+Battery Park/Tribeca,2018,Number,71.07652,101
+Battery Park/Tribeca,2018,Percent,0.02,101
+Battery Park/Tribeca,2017,Percent,0.032,101
+Battery Park/Tribeca,2017,Number,118.32625,101
+Battery Park/Tribeca,2019,Number,101.63404,101
+Battery Park/Tribeca,2019,Percent,0.02931,101
+Greenwich Village,2019,Percent,0.02931,102
+Greenwich Village,2019,Number,150.03263,102
+Greenwich Village,2017,Number,174.67375,102
+Greenwich Village,2017,Percent,0.032,102
+Greenwich Village,2018,Percent,0.02,102
+Greenwich Village,2018,Number,104.92348,102
+Lower East Side,2018,Number,3036,103
+Lower East Side,2018,Percent,0.596,103
+Lower East Side,2017,Percent,0.582,103
+Lower East Side,2017,Number,3124,103
+Lower East Side,2019,Number,2719,103
+Lower East Side,2019,Percent,0.54789,103
+Chelsea/Clinton,2019,Percent,0.16271,104
+Chelsea/Clinton,2019,Number,587.14188,104
+Chelsea/Clinton,2017,Number,669.11514,104
+Chelsea/Clinton,2017,Percent,0.181,104
+Chelsea/Clinton,2018,Percent,0.158,104
+Chelsea/Clinton,2018,Number,537.82462,104
+Midtown Business District,2018,Number,269.17538,105
+Midtown Business District,2018,Percent,0.158,105
+Midtown Business District,2017,Percent,0.181,105
+Midtown Business District,2017,Number,334.88486,105
+Midtown Business District,2019,Number,293.85812,105
+Midtown Business District,2019,Percent,0.16271,105
+Murray Hill/Stuyvesant,2019,Percent,0.02417,106
+Murray Hill/Stuyvesant,2019,Number,120.66667,106
+Murray Hill/Stuyvesant,2017,Number,420,106
+Murray Hill/Stuyvesant,2017,Percent,0.092,106
+Murray Hill/Stuyvesant,2018,Percent,0.034,106
+Murray Hill/Stuyvesant,2018,Number,172,106
+Upper West Side,2018,Number,1616,107
+Upper West Side,2018,Percent,0.157,107
+Upper West Side,2017,Percent,0.209,107
+Upper West Side,2017,Number,2079,107
+Upper West Side,2019,Number,1442.66667,107
+Upper West Side,2019,Percent,0.14058,107
+Upper East Side,2019,Percent,0.08048,108
+Upper East Side,2019,Number,916,108
+Upper East Side,2017,Number,740,108
+Upper East Side,2017,Percent,0.065,108
+Upper East Side,2018,Percent,0.093,108
+Upper East Side,2018,Number,996,108
+Manhattanville,2018,Number,3394,109
+Manhattanville,2018,Percent,0.59,109
+Manhattanville,2017,Percent,0.617,109
+Manhattanville,2017,Number,3965,109
+Manhattanville,2019,Number,2683,109
+Manhattanville,2019,Percent,0.50262,109
+Central Harlem,2019,Percent,0.57551,110
+Central Harlem,2019,Number,5176.33333,110
+Central Harlem,2017,Number,6473,110
+Central Harlem,2017,Percent,0.654,110
+Central Harlem,2018,Percent,0.644,110
+Central Harlem,2018,Number,6272,110
+East Harlem,2018,Number,4291,111
+East Harlem,2018,Percent,0.712,111
+East Harlem,2017,Percent,0.747,111
+East Harlem,2017,Number,5341,111
+East Harlem,2019,Number,3753.66667,111
+East Harlem,2019,Percent,0.62495,111
+Washington Heights,2019,Percent,0.51778,112
+Washington Heights,2019,Number,5418,112
+Washington Heights,2017,Number,6306,112
+Washington Heights,2017,Percent,0.52,112
+Washington Heights,2018,Percent,0.56,112
+Washington Heights,2018,Number,6597,112
+Bronx,2017,Number,68673,36005
+Bronx,2018,Percent,0.656,36005
+Bronx,2017,Percent,0.66,36005
+Bronx,2018,Number,67030,36005
+Bronx,2019,Percent,0.62969,36005
+Bronx,2019,Number,63023,36005
+Manhattan,2019,Percent,0.30578,36061
+Mott Haven,2019,Percent,0.77968,201
+Mott Haven,2019,Number,5109.01693,201
+Mott Haven,2018,Number,5540.37336,201
+Mott Haven,2018,Percent,0.771,201
+Mott Haven,2017,Percent,0.774,201
+Mott Haven,2017,Number,5569.65383,201
+Hunts Point,2017,Number,3180.34617,202
+Hunts Point,2017,Percent,0.774,202
+Hunts Point,2018,Percent,0.771,202
+Hunts Point,2018,Number,3163.62664,202
+Hunts Point,2019,Number,2917.3164,202
+Hunts Point,2019,Percent,0.77968,202
+Morrisania,2019,Percent,0.74588,203
+Morrisania,2019,Number,5314.69426,203
+Morrisania,2018,Number,5524.09214,203
+Morrisania,2018,Percent,0.784,203
+Morrisania,2017,Percent,0.796,203
+Morrisania,2017,Number,5878.30724,203
+Concourse/Highbridge,2019,Number,6428,204
+Concourse/Highbridge,2017,Number,7923,204
+Concourse/Highbridge,2017,Percent,0.817,204
+Concourse/Highbridge,2018,Percent,0.788,204
+Concourse/Highbridge,2018,Number,7125,204
+Concourse/Highbridge,2019,Percent,0.67189,204
+University Heights,2019,Percent,0.71474,205
+University Heights,2019,Number,8471.33333,205
+University Heights,2018,Number,8657,205
+University Heights,2018,Percent,0.755,205
+University Heights,2017,Percent,0.742,205
+University Heights,2017,Number,8599,205
+East Tremont,2017,Number,6136.69276,206
+East Tremont,2017,Percent,0.796,206
+East Tremont,2018,Percent,0.784,206
+East Tremont,2018,Number,5766.90786,206
+East Tremont,2019,Number,5548.30574,206
+East Tremont,2019,Percent,0.74588,206
+Bedford Park,2019,Percent,0.64054,207
+Bedford Park,2019,Number,7285.33333,207
+Bedford Park,2018,Number,7490,207
+Bedford Park,2018,Percent,0.662,207
+Bedford Park,2017,Percent,0.692,207
+Bedford Park,2017,Number,8668,207
+Riverdale,2019,Number,3765.33333,208
+Riverdale,2017,Number,3336,208
+Riverdale,2017,Percent,0.43,208
+Riverdale,2018,Percent,0.504,208
+Riverdale,2018,Number,4037,208
+Riverdale,2019,Percent,0.49581,208
+Unionport/Soundview,2019,Percent,0.65733,209
+Unionport/Soundview,2019,Number,8257.33333,209
+Unionport/Soundview,2018,Number,8952,209
+Unionport/Soundview,2018,Percent,0.648,209
+Unionport/Soundview,2017,Percent,0.667,209
+Unionport/Soundview,2017,Number,8695,209
+Throgs Neck,2017,Number,1767,210
+Throgs Neck,2017,Percent,0.286,210
+Throgs Neck,2018,Percent,0.305,210
+Throgs Neck,2018,Number,1992,210
+Throgs Neck,2019,Number,1668,210
+Throgs Neck,2019,Percent,0.2882,210
+Pelham Parkway,2019,Percent,0.49146,211
+Pelham Parkway,2019,Number,3673.66667,211
+Pelham Parkway,2018,Number,4070,211
+Pelham Parkway,2018,Percent,0.532,211
+Pelham Parkway,2017,Percent,0.566,211
+Pelham Parkway,2017,Number,4507,211
+Williamsbridge,2019,Number,4584.66667,212
+Williamsbridge,2017,Number,4413,212
+Williamsbridge,2017,Percent,0.501,212
+Williamsbridge,2018,Percent,0.544,212
+Williamsbridge,2018,Number,4710,212
+Williamsbridge,2019,Percent,0.50858,212
+Brooklyn,2018,Number,90977,36047
+Brooklyn,2017,Percent,0.511,36047
+Brooklyn,2018,Percent,0.483,36047
+Brooklyn,2019,Number,86673.33333,36047
+Brooklyn,2019,Percent,0.46986,36047
+Brooklyn,2017,Number,98078,36047
+Williamsburg/Greenpoint,2018,Number,6386,301
+Williamsburg/Greenpoint,2018,Percent,0.524,301
+Williamsburg/Greenpoint,2017,Percent,0.559,301
+Williamsburg/Greenpoint,2017,Number,6330,301
+Williamsburg/Greenpoint,2019,Number,6225,301
+Williamsburg/Greenpoint,2019,Percent,0.52928,301
+Fort Greene/Brooklyn Hts,2019,Percent,0.23535,302
+Fort Greene/Brooklyn Hts,2017,Number,2341,302
+Fort Greene/Brooklyn Hts,2017,Percent,0.271,302
+Fort Greene/Brooklyn Hts,2018,Percent,0.239,302
+Fort Greene/Brooklyn Hts,2018,Number,2173,302
+Bedford Stuyvesant,2018,Number,6893,303
+Bedford Stuyvesant,2018,Percent,0.574,303
+Bedford Stuyvesant,2017,Percent,0.646,303
+Bedford Stuyvesant,2017,Number,8145,303
+Bedford Stuyvesant,2019,Percent,0.56289,303
+Bedford Stuyvesant,2019,Number,6238.66667,303
+Fort Greene/Brooklyn Hts,2019,Number,2300.66667,302
+Bushwick,2019,Percent,0.57401,304
+Bushwick,2017,Number,5470,304
+Bushwick,2017,Percent,0.675,304
+Bushwick,2018,Percent,0.595,304
+Bushwick,2018,Number,4512,304
+East New York,2018,Number,8525,305
+East New York,2018,Percent,0.618,305
+East New York,2017,Percent,0.655,305
+East New York,2017,Number,9074,305
+East New York,2019,Percent,0.59191,305
+East New York,2019,Number,8531.33333,305
+Bushwick,2019,Number,3803,304
+Park Slope,2019,Percent,0.06288,306
+Park Slope,2017,Number,1127,306
+Park Slope,2017,Percent,0.115,306
+Park Slope,2018,Percent,0.128,306
+Park Slope,2018,Number,1234,306
+Sunset Park,2018,Number,6681,307
+Sunset Park,2018,Percent,0.596,307
+Sunset Park,2017,Percent,0.652,307
+Sunset Park,2017,Number,7450,307
+Sunset Park,2019,Percent,0.54241,307
+Sunset Park,2019,Number,5248.33333,307
+Park Slope,2019,Number,579.33333,306
+Crown Heights North,2019,Percent,0.48173,308
+Crown Heights North,2017,Number,4750,308
+Crown Heights North,2017,Percent,0.556,308
+Crown Heights North,2018,Percent,0.522,308
+Crown Heights North,2018,Number,4634,308
+Crown Heights South,2018,Number,3483,309
+Crown Heights South,2018,Percent,0.529,309
+Crown Heights South,2017,Percent,0.524,309
+Crown Heights South,2017,Number,3571,309
+Crown Heights South,2019,Percent,0.47531,309
+Crown Heights South,2019,Number,3192.66667,309
+Crown Heights North,2019,Number,4504.33333,308
+Bay Ridge,2019,Percent,0.33979,310
+Bay Ridge,2017,Number,2460,310
+Bay Ridge,2017,Percent,0.346,310
+Bay Ridge,2018,Percent,0.336,310
+Bay Ridge,2018,Number,2565,310
+Bensonhurst,2018,Number,6436,311
+Bensonhurst,2018,Percent,0.488,311
+Bensonhurst,2017,Percent,0.479,311
+Bensonhurst,2017,Number,6588,311
+Bensonhurst,2019,Percent,0.45984,311
+Bensonhurst,2019,Number,5708,311
+Bay Ridge,2019,Number,2567,310
+Borough Park,2019,Percent,0.68579,312
+Borough Park,2017,Number,12903,312
+Borough Park,2017,Percent,0.688,312
+Borough Park,2018,Percent,0.674,312
+Borough Park,2018,Number,12064,312
+Coney Island,2018,Number,2834,313
+Coney Island,2018,Percent,0.459,313
+Coney Island,2017,Percent,0.494,313
+Coney Island,2017,Number,3692,313
+Coney Island,2019,Percent,0.49744,313
+Coney Island,2019,Number,3240,313
+Borough Park,2019,Number,11947,312
+Flatbush/Midwood,2019,Percent,0.4706,314
+Flatbush/Midwood,2017,Number,6730,314
+Flatbush/Midwood,2017,Percent,0.554,314
+Flatbush/Midwood,2018,Percent,0.517,314
+Flatbush/Midwood,2018,Number,6373,314
+Sheepshead Bay,2018,Number,3666,315
+Sheepshead Bay,2018,Percent,0.342,315
+Sheepshead Bay,2017,Percent,0.366,315
+Sheepshead Bay,2017,Number,4079,315
+Sheepshead Bay,2019,Percent,0.3321,315
+Sheepshead Bay,2019,Number,3457,315
+Flatbush/Midwood,2019,Number,5819.33333,314
+Brownsville,2019,Percent,0.6609,316
+Brownsville,2017,Number,4541,316
+Brownsville,2017,Percent,0.622,316
+Brownsville,2018,Percent,0.591,316
+Brownsville,2018,Number,4311,316
+East Flatbush,2018,Number,4104,317
+East Flatbush,2018,Percent,0.496,317
+East Flatbush,2017,Percent,0.527,317
+East Flatbush,2017,Number,4800,317
+East Flatbush,2019,Percent,0.47276,317
+East Flatbush,2019,Number,3563.66667,317
+Brownsville,2019,Number,5676,316
+Canarsie,2019,Percent,0.31213,318
+Canarsie,2017,Number,4027,318
+Canarsie,2017,Percent,0.288,318
+Canarsie,2018,Percent,0.294,318
+Canarsie,2018,Number,4104,318
+Queens,2017,Number,58561,36081
+Queens,2018,Percent,0.393,36081
+Queens,2017,Percent,0.414,36081
+Queens,2018,Number,54607,36081
+Queens,2019,Number,51814.33333,36081
+Canarsie,2019,Number,4072,318
+Queens,2019,Percent,0.3819,36081
+Astoria,2019,Number,3358.33333,401
+Astoria,2018,Number,2957,401
+Astoria,2018,Percent,0.357,401
+Astoria,2017,Percent,0.373,401
+Astoria,2017,Number,3259,401
+Sunnyside/Woodside,2017,Number,2472,402
+Sunnyside/Woodside,2017,Percent,0.362,402
+Sunnyside/Woodside,2018,Percent,0.325,402
+Sunnyside/Woodside,2018,Number,2308,402
+Astoria,2019,Percent,0.39183,401
+Sunnyside/Woodside,2019,Number,2288.33333,402
+Jackson Heights,2019,Percent,0.54925,403
+Sunnyside/Woodside,2019,Percent,0.31565,402
+Jackson Heights,2019,Number,6175,403
+Jackson Heights,2018,Number,6586,403
+Jackson Heights,2018,Percent,0.546,403
+Jackson Heights,2017,Percent,0.552,403
+Jackson Heights,2017,Number,6879,403
+Elmhurst/Corona,2017,Number,5779,404
+Elmhurst/Corona,2017,Percent,0.665,404
+Elmhurst/Corona,2018,Percent,0.636,404
+Elmhurst/Corona,2018,Number,5705,404
+Elmhurst/Corona,2019,Number,4668.33333,404
+Elmhurst/Corona,2019,Percent,0.55426,404
+Ridgewood/Glendale,2019,Number,3781,405
+Ridgewood/Glendale,2018,Number,3332,405
+Ridgewood/Glendale,2018,Percent,0.287,405
+Ridgewood/Glendale,2017,Percent,0.28,405
+Ridgewood/Glendale,2017,Number,3337,405
+Ridgewood/Glendale,2019,Percent,0.32629,405
+Rego Park/Forest Hills,2017,Number,1371,406
+Rego Park/Forest Hills,2017,Percent,0.172,406
+Rego Park/Forest Hills,2018,Percent,0.14,406
+Rego Park/Forest Hills,2018,Number,963,406
+Rego Park/Forest Hills,2019,Number,931,406
+Flushing,2019,Number,5758,407
+Flushing,2019,Percent,0.44096,407
+Rego Park/Forest Hills,2019,Percent,0.12763,406
+Flushing,2018,Number,5829,407
+Flushing,2018,Percent,0.445,407
+Flushing,2017,Percent,0.508,407
+Flushing,2017,Number,6798,407
+Fresh Meadows/Briarwood,2019,Number,4412,408
+Fresh Meadows/Briarwood,2017,Number,4266,408
+Fresh Meadows/Briarwood,2017,Percent,0.376,408
+Fresh Meadows/Briarwood,2018,Percent,0.36,408
+Fresh Meadows/Briarwood,2018,Number,4299,408
+Fresh Meadows/Briarwood,2019,Percent,0.35755,408
+Woodhaven,2019,Number,3077.33333,409
+Woodhaven,2018,Number,3639,409
+Woodhaven,2018,Percent,0.405,409
+Woodhaven,2017,Percent,0.434,409
+Woodhaven,2017,Number,3995,409
+Howard Beach,2017,Number,3047,410
+Howard Beach,2017,Percent,0.435,410
+Howard Beach,2018,Percent,0.424,410
+Howard Beach,2018,Number,2833,410
+Woodhaven,2019,Percent,0.35932,409
+Howard Beach,2019,Number,2422.66667,410
+Bayside,2019,Percent,0.16579,411
+Howard Beach,2019,Percent,0.35734,410
+Bayside,2019,Number,842.66667,411
+Bayside,2018,Number,1134,411
+Bayside,2018,Percent,0.201,411
+Bayside,2017,Percent,0.178,411
+Bayside,2017,Number,988,411
+Jamaica/St. Albans,2017,Number,6875,412
+Jamaica/St. Albans,2017,Percent,0.451,412
+Jamaica/St. Albans,2018,Percent,0.442,412
+Jamaica/St. Albans,2018,Number,6346,412
+Jamaica/St. Albans,2019,Number,6599.33333,412
+Jamaica/St. Albans,2019,Percent,0.44586,412
+Queens Village,2019,Number,2666,413
+Queens Village,2018,Number,3262,413
+Queens Village,2018,Percent,0.271,413
+Queens Village,2017,Percent,0.331,413
+Queens Village,2017,Number,3694,413
+Queens Village,2019,Percent,0.25452,413
+The Rockaways,2017,Number,5802,414
+The Rockaways,2017,Percent,0.487,414
+The Rockaways,2018,Percent,0.481,414
+The Rockaways,2018,Number,5414,414
+The Rockaways,2019,Number,4834.33333,414
+Staten Island,2019,Percent,0.29307,36085
+The Rockaways,2019,Percent,0.47371,414
+Staten Island,2018,Number,8499,36085
+Staten Island,2017,Percent,0.335,36085
+Staten Island,2018,Percent,0.329,36085
+Staten Island,2019,Number,7526.33333,36085
+Staten Island,2017,Number,8767,36085
+St. George,2018,Number,3899,501
+St. George,2018,Percent,0.434,501
+St. George,2017,Percent,0.468,501
+St. George,2017,Number,4457,501
+St. George,2019,Percent,0.37519,501
+South Beach,2019,Number,2460.66667,502
+South Beach,2019,Percent,0.30519,502
+St. George,2019,Number,3452.66667,501
+South Beach,2017,Number,2745,502
+South Beach,2017,Percent,0.34,502
+South Beach,2018,Percent,0.311,502
+South Beach,2018,Number,2660,502
+Tottenville,2018,Number,1940,503
+Tottenville,2018,Percent,0.235,503
+Tottenville,2017,Percent,0.183,503
+Tottenville,2017,Number,1564,503
+Tottenville,2019,Percent,0.19167,503
+Tottenville,2019,Number,1613,503
